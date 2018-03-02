@@ -9,7 +9,7 @@
 
     <servlet>
         <servlet-name>Login</servlet-name>
-        <servlet-class>de.gbsschulen.bookstore.Login</servlet-class>
+        <servlet-class>de.gbsschulen.bookstore.LoginServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
